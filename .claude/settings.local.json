@@ -13,7 +13,12 @@
       "Bash(git reflog:*)",
       "Bash(git gc:*)",
       "Bash(git rm:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git rev-list:*)",
+      "Bash(xargs git grep fHBfAaw)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
