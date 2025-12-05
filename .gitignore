@@ -14,7 +14,8 @@ logs/
 Thumbs.db
 *.swp
 *.swo
-.env
+./.env
+.env/
 
 # files which include important information
 
